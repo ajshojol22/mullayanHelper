@@ -1,0 +1,127 @@
+{
+    "class_8": {
+        "subjects": [
+            {
+                "name": "বাংলা ১ম পত্র",
+                "description": "Egypt and Mesopotamia",
+                "slug": "bangla_1st",
+                "chapters": [
+                    "অতিথির স্মৃতি",
+                    "আবার আসিব ফিরে",
+                    "আমাদের লোকশিল্প",
+                    "একুশের গান",
+                    "এবারের সংগ্রাম স্বাধীনতার সংগ্রাম",
+                    "জাগো তবে অরণ্য কন্যারা",
+                    "তৈলচিত্রের ভূত",
+                    "দুই বিঘা জমি",
+                    "নদীর স্বপ্ন",
+                    "নারী",
+                    "পাছে লোকে কিছু বলে",
+                    "প্রার্থণা",
+                    "প্রার্থী",
+                    "পড়ে পাওয়া",
+                    "বঙ্গভূমির প্রতি",
+                    "বাংলা নববর্ষ",
+                    "বাংলা ভাষার জন্মকথা",
+                    "বাবুরের মহত্ত্ব",
+                    "ভাব ও কাজ",
+                    "মংড়ুর পথে",
+                    "মানবধর্ম",
+                    "রুপাই",
+                    "শিল্পকলার নান দিক",
+                    "সুখী মানুষ"
+                ]
+            },
+            {
+                "name": "বিজ্ঞান",
+                "description": "Egypt and Mesopotamia",
+                "slug": "science",
+                "chapters": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
+                ]
+            }
+        ]
+    },
+    "class_9": {
+        "subjects": [
+            {
+                "name": "বাংলা ২য় পত্র",
+                "description": "Egypt and Mesopotamia",
+                "slug": "bangla_2nd",
+                "chapters": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4"
+                ]
+            },
+            {
+                "name": "জীববিজ্ঞান",
+                "description": "Egypt and Mesopotamia",
+                "slug": "biology",
+                "chapters": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14"
+                ]
+            },
+            {
+                "name": "রসায়ন",
+                "description": "Egypt and Mesopotamia",
+                "slug": "chemistry",
+                "chapters": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12"
+                ]
+            },
+            {
+                "name": "পদার্থ বিজ্ঞান",
+                "description": "Egypt and Mesopotamia",
+                "slug": "physics",
+                "chapters": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14"
+                ]
+            }
+        ]
+    }
+}
